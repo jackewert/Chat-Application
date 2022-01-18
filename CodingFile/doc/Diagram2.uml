@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>PlayerForGame</OriginalElement>
+  <nodes>
+    <node x="-207.4253393665158" y="29.807692307692307">Game</node>
+    <node x="-554.0723981900452" y="143.77828054298644">GameRPS_GUIcontroller</node>
+    <node x="124.4276018099547" y="38.57466063348416">PlayerForGame</node>
+    <node x="-203.39366515837105" y="362.95927601809956">MOVE</node>
+    <node x="131.66742081447967" y="218.30090497737555">Player_Bot</node>
+    <node x="200.660633484163" y="419.06787330316746">PLAYER_STATUS</node>
+    <node x="-566.3461538461539" y="25.230769230769297">GameRPS</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Player_Bot" target="PlayerForGame">
+      <point x="0.0" y="-49.0" />
+      <point x="0.0" y="71.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7245901639344262" x="-82.5" y="320.0" />
+  <SelectedNodes>
+    <node>PLAYER_STATUS</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

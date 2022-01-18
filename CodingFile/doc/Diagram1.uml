@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ChatBotClient</OriginalElement>
+  <nodes>
+    <node x="-444.9230769230769" y="434.0">ChatBotServer.SockServer</node>
+    <node x="-740.7782805429865" y="76.23755656108584">RunServer</node>
+    <node x="-30.307692307692378" y="110.76923076923076">ChatBot</node>
+    <node x="-716.2307692307693" y="312.00000000000006">ChatBotClient</node>
+    <node x="-741.0384615384617" y="149.23076923076925">RunClient</node>
+    <node x="3.8076923076921503" y="335.7692307692307">BOT_NAME</node>
+    <node x="-399.9230769230769" y="18.46153846153847">ChatBotServer</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ChatBotServer.SockServer" target="ChatBotServer">
+      <point x="0.0" y="-181.0" />
+      <point x="0.0" y="192.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5538847117794486" x="-256.0" y="407.0" />
+  <SelectedNodes>
+    <node>RunServer</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
